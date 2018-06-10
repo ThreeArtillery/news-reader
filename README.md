@@ -1,7 +1,17 @@
-# AndroidLua
-Android Touch Sprite
+# news-reader
+news-reader
 
-在android 平台上拓展AndroidLua，使得手机可以运行LUA脚本进行模拟点击，输入文字，滑动的操作，类似于按键精灵；使用的前提是手机要获取root权限
-效果图
+## Install
 
-![image](https://github.com/MHuangXin/AndroidLua/blob/master/captures/ezgif.com-crop.gif)
+node 8.11.2
+
+npm i -g yarn
+
+yarn install
+
+yarn start
+
+## Android Studio
+open news-reader/android
+
+run
